@@ -12,4 +12,4 @@
 ## Additional Documentation
   [Important Website](https://tippie.uiowa.edu/about/business-analytics-department)
 ## Versioning
-  ==Updates== to this project.
+  **Updates** to this project.
