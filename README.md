@@ -1,4 +1,4 @@
-## Project Title
+## **Project Title**
   This is where I put the **important** title of my project.
 ## Description
   Provide a *detailed* description of my project.
@@ -10,6 +10,6 @@
   - This might not need to be an ordered list
   - Bullet points work fine for this section
 ## Additional Documentation
-  [Important Website](https://tippie.uiowa.edu/about/business-analytics-department)
+  A project might include an [Important Website](https://tippie.uiowa.edu/about/business-analytics-department)
 ## Versioning
   **Updates** to this project.
